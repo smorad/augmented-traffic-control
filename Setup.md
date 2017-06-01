@@ -40,7 +40,7 @@ ATC Daemon
 Installation:
 
 ```shell
-pip install atcd
+sudo pip install atcd
 ```
 
 Running `atcd` (as root):
